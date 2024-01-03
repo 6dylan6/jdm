@@ -1,0 +1,58 @@
+[
+  {
+    "pt_pin": "pin_pin",
+    "remarks": "我的",
+    "address": {
+      "receiver": "我的",
+      "phone": "13******6",
+      "province": "省",
+      "city": "市",
+      "county": "区",
+      "address": "xx路",
+      "postalCode": "100000",
+      "areaCode": "100000"
+    }
+  },
+  {
+    "pt_pin": "pin_pin",
+    "remarks": "大大姐",
+    "address": {
+      "receiver": "大大姐",
+      "phone": "13******6",
+      "province": "省",
+      "city": "市",
+      "county": "区",
+      "address": "xx路",
+      "postalCode": "100000",
+      "areaCode": "100000"
+    }
+  },
+  {
+    "pt_pin": "默认地址1",
+    "remarks": "默认地址1",
+    "address": {
+      "receiver": "默认地址1",
+      "phone": "13******6",
+      "province": "省",
+      "city": "市",
+      "county": "区",
+      "address": "xx路",
+      "postalCode": "100000",
+      "areaCode": "100000"
+    }
+  },
+  {
+    "pt_pin": "默认地址2",
+    "remarks": "默认地址2",
+    "address": {
+      "receiver": "默认地址2",
+      "phone": "13******6",
+      "province": "省",
+      "city": "市",
+      "county": "区",
+      "address": "xx路",
+      "postalCode": "100000",
+      "areaCode": "100000"
+    }
+  }
+]
